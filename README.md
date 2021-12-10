@@ -7,7 +7,7 @@ Count PDF pages
 
 ```sh
 npx degit mhkeller/count-pdf-pages#main
-cd count-pages
+cd count-pdf-pages
 npm install
 ```
 
